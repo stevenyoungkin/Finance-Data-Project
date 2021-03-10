@@ -1,4 +1,4 @@
-# Finance-Data-Project
+# finance_data_project
 Second of two data capstone projects from the Udemy Course: Python for Data Science and Machine Learning
 
 If there is a problem opening the notebook, please go to https://nbviewer.jupyter.org/ and paste the link to the notebook there to view it.
